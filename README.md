@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71abb04c-eaff-458b-9164-a111f6c7c080" width="700">
+  <img src="https://github.com/user-attachments/assets/71abb04c-eaff-458b-9164-a111f6c7c080" width="600">
 </p>
 
 
@@ -19,3 +19,4 @@
     <a href="https://example.com/4">straw</a>
   </p>
 
+　
